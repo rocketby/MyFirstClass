@@ -16,7 +16,7 @@ public class Flower {
     }
 
     String getColor() {
-        return this.color;
+        return color;
     }
 
     void setColor(String color) {
